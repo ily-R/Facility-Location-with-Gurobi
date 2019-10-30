@@ -1,0 +1,36 @@
+Antony,511,711
+Asnieres-sur-Seine,479,128
+Bagneux,549,554
+Bois-Colombes,451,131
+Boulogne-Billancourt,386,426
+Bourg-la-Reine,553,620
+Chaville,260,512
+Chatenay-Malabry,426,666
+Chatillon,485,547
+Clamart,430,550
+Clichy,526,182
+Colombes,413,110
+Courbevoie,417,203
+Fontenay-aux-Roses,493,578
+Garches,256,388
+Gennevilliers,516,73
+Issy-les-Moulineaux,455,465
+La Garenne-Colombes,393,157
+Le Plessis-Robinson,433,613
+Levallois-Perret,490,212
+Malakoff,489,495
+Marnes-la-Coquette,212,438
+Meudon,374,503
+Montrouge,564,481
+Nanterre,279,227
+Neuilly-sur-Seine,454,251
+Puteaux,373,252
+Rueil-Malmaison,238,272
+Saint-Cloud,331,391
+Sceaux,500,624
+Suresnes,338,298
+Sevres,309,461
+Vanves,485,471
+Vaucresson,189,406
+Ville-d'Avray,260,451
+Villeneuve-la-Garenne,591,62
