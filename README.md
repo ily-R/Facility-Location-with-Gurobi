@@ -1,6 +1,6 @@
 # Facility-Location-MOGPL
 
-For in-depth explanation and discussion please refer to ["Facility location.ipynb"](https://nbviewer.jupyter.org/github/ily-R/Facility-Location-MOGPL/blob/master/Facility%20location.ipynb)
+For in-depth explanation, discussion and results please refer to ["Facility location.ipynb"](https://nbviewer.jupyter.org/github/ily-R/Facility-Location-MOGPL/blob/master/Facility%20location.ipynb)
 
 ## Intro:
 
